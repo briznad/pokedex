@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/notFound/index.tsx"],"names":["NotFound"],"mappings":"mGAAA,uBAUeA,UARf,WACE,OACE","file":"static/js/5.60f1518f.chunk.js","sourcesContent":["import React from \"react\";\n\nfunction NotFound(): JSX.Element {\n  return (\n    <div>\n        Oops\n    </div>\n  );\n}\n\nexport default NotFound;\n"],"sourceRoot":""}

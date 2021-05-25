@@ -1,0 +1,2 @@
+(this.webpackJsonppokemon=this.webpackJsonppokemon||[]).push([[5],{84:function(n,e,o){"use strict";o.r(e);o(1);var s=o(6);e.default=function(){return Object(s.jsx)("div",{children:"Oops"})}}}]);
+//# sourceMappingURL=5.60f1518f.chunk.js.map
